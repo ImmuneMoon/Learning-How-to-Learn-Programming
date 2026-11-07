@@ -18,13 +18,10 @@
 - wellbeing basics: sleep, breaks, exercise and the signs of burnout;
 - books worth reading once you can write some code.
 
-Every video kept from the original notes is credited by title and channel, and the study research is linked in the Sources section.
-
 ## ⚠️ Important Notes
 * **This isn't medical advice.** The wellbeing section gives general, widely published guidance. If you're struggling with sleep, mood, stress or your health, talk to a doctor or a qualified professional.
 * **The research is simplified.** Study findings come from specific experiments with specific materials. They point in a useful direction, but none of them guarantees results for every person or every topic.
 * **The videos are their creators' opinions.** They're useful perspectives, not rules. Some contain sponsor segments and affiliate links.
-* **A few original links were removed** because the videos are now private or deleted, and one Facebook link needs a login. Nothing here relies on them.
 
 ## 🚀 How to Use
 Download the PDF above, or read on below. Start with **Section 1** for the whole method on one page, then dip into the sections you need. If you only read one other part, read **Section 4** on building.
@@ -41,8 +38,6 @@ This guide works alongside these others:
 ---
 
 <!-- guide:start -->
-
-*Links, video titles and research references were checked in November 2026, and each video's summary was rechecked against what the video actually says.*
 
 ## Contents
 
@@ -73,7 +68,7 @@ Learning to program isn't mainly about finding the perfect course. It's about a 
 
 Then go round again with the next topic. Each loop should feel a little hard. If it feels easy, raise the challenge; if it feels impossible, make the step smaller.
 
-> **Learn in any order, but not all at once.** The original notes put it simply: you can pick up languages and tools in any order, but don't take on too many at the same time. One language, one project and one new tool at a time is plenty.
+> **Learn in any order, but not all at once.** You can pick up languages and tools in any order, but don't take on too many at the same time. One language, one project and one new tool at a time is plenty.
 
 ---
 
@@ -269,7 +264,7 @@ How to get out:
 
 ### 5.1 Notes that help
 
-The original notes included two opposite views, and both have a point:
+Two videos take opposite views, and both have a point:
 
 - **"How I take notes - Tips for efficient note taking that speeds up learning"** ([Tina Huang](https://youtu.be/q6_9mdCkQhE)) builds study techniques into the notes themselves:
   - **Before:** review your previous notes, then **prime** by skimming the next section for its main topics.
@@ -322,7 +317,7 @@ Practical versions:
 
 ### 6.2 Boredom, repetition and finding the right difficulty
 
-A short Facebook reel by **Josh Terry**, captioned "It's a skill" (it needs a Facebook login to view), is about sitting with boredom. His argument: mastering a skill takes lots of repetition **below** your maximum level, and that's boring. Our instinct is to chase progress by learning something new, because that's how a skill feels at the start. To master what you already have, redirect that drive: give practice at a comfortable level your full attention, so you're maxing out your **focus** even when you're not maxing out the **difficulty**.
+A short Facebook reel by **Josh Terry**, captioned "It's a skill", is about sitting with boredom. His argument: mastering a skill takes lots of repetition **below** your maximum level, and that's boring. Our instinct is to chase progress by learning something new, because that's how a skill feels at the start. To master what you already have, redirect that drive: give practice at a comfortable level your full attention, so you're maxing out your **focus** even when you're not maxing out the **difficulty**.
 
 That fits the research, with one nuance:
 - **Boredom while learning is normal.** Repetition, setup and reading docs are part of the job. Feeling bored doesn't mean you've chosen the wrong path.
@@ -410,7 +405,7 @@ In **"6 MUST READ Software Engineering Books 2022"** ([Keep On Coding](https://y
 | *Modern Software Engineering* | David Farley | Best practices: working iteratively, managing complexity, loose coupling and separation of concerns. Few code examples |
 | *The Pragmatic Programmer* | David Thomas and Andrew Hunt | A classic of short, practical topics on habits, tools and debugging, and the source of "don't repeat yourself" (DRY). One every programmer would benefit from |
 | *Principles of Web API Design* | James Higginbotham | The whole API design process, from planning to refining, with lots of diagrams but no implementation code. Suits planners as much as coders |
-| *Clean Code* | Robert C. Martin | Shows bad code, explains why, then fixes it. Heavy on Java and object-oriented programming (see the notes below) |
+| *Clean Code* | Robert C. Martin | Shows bad code, explains why, then fixes it. Heavy on Java and object-oriented programming (see Section 9.2) |
 | *Python Distilled* | David M. Beazley | Not for your first language. It takes an intermediate Python developer toward advanced |
 | *Code That Fits in Your Head* | Mark Seemann | Grows one code base from nothing to deployment, then covers maintaining it. Examples in C# |
 
@@ -442,7 +437,7 @@ In **"6 MUST READ Software Engineering Books 2022"** ([Keep On Coding](https://y
 
 ## 11. Sources
 
-**Videos from the original notes**
+**Videos**
 - Tech With Tim, "How To Learn Programming Languages and Frameworks FAST": https://www.youtube.com/watch?v=RPrBGrQsIek
 - ForrestKnight, "How I Plan My Coding Projects": https://www.youtube.com/watch?v=qS4mvrWWO_M
 - ForrestKnight, "Learn Code Faster with the Feynman Technique": https://youtu.be/vWNa15pjzi4
@@ -461,7 +456,7 @@ In **"6 MUST READ Software Engineering Books 2022"** ([Keep On Coding](https://y
 - Einzelgänger, "The Harder You Try, The Worse It Gets | Law of Reversed Effort": https://youtu.be/-IlG32Pb43g
 - Aleph 0, "How to self study pure math - a step-by-step guide": https://youtu.be/byNaO_zn2fI
 - Keep On Coding, "6 MUST READ Software Engineering Books 2022": https://youtu.be/9t7R4GBUAq0
-- Josh Terry, "It's a skill" (Facebook reel, login needed): https://www.facebook.com/reel/617775599977814
+- Josh Terry, "It's a skill" (Facebook): https://www.facebook.com/reel/617775599977814
 
 **Research and guidance**
 - Dunlosky, Rawson, Marsh, Nathan and Willingham (2013), "Improving Students' Learning With Effective Learning Techniques", *Psychological Science in the Public Interest*: https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html
@@ -492,7 +487,7 @@ In **"6 MUST READ Software Engineering Books 2022"** ([Keep On Coding](https://y
 - Anki: https://ankiweb.net/
 - Excalidraw: https://excalidraw.com/
 
-**Other sources checked for this guide**
+**Other sources**
 - Wilson, Shenhav, Straccia and Cohen (2019), "The Eighty Five Percent Rule for optimal learning", *Nature Communications*: https://pmc.ncbi.nlm.nih.gov/articles/PMC6831579/
 - Jeff Erickson, *Algorithms* (free, CC BY 4.0): https://jeffe.cs.illinois.edu/teaching/algorithms/
 - Barbara Oakley and Terrence Sejnowski, *Learning How to Learn* (Coursera): https://www.coursera.org/learn/learning-how-to-learn
